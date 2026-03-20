@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="대한민국 국기" width="200" style="border: 1px solid #d0d7de;" />
+  <img src="https://flagcdn.com/kr.svg" alt="대한민국 국기" width="200" style="border: 1px solid #d0d7de;" />
 </p>
 
 <p align="center">
